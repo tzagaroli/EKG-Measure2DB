@@ -1,0 +1,5 @@
+database:
+  path_to_physionet: "path_to_ptb-xl"
+  sample_frequency: 500
+
+output: "path_to_output"
