@@ -1,0 +1,3 @@
+[submodule "libs/ECGdeli"]
+	path = libs/ECGdeli
+	url = git@github.com:tzagaroli/ECGdeli.git
