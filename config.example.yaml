@@ -1,5 +1,10 @@
 database:
   path_to_physionet: "path_to_ptb-xl"
+  path_to_measure: "path_to_measure"
   sample_frequency: 500
 
 output: "path_to_output"
+
+measure:
+  output: "path_to_output"
+  
